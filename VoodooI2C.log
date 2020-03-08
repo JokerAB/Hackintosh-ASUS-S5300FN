@@ -1,0 +1,88 @@
+
+2020-03-08 12:17:01.925081+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::Loading GPIO Data for CannonLake-LP
+2020-03-08 12:17:01.925169+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Init!
+2020-03-08 12:17:01.925174+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 0
+2020-03-08 12:17:01.925231+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 1
+2020-03-08 12:17:01.925283+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 2
+2020-03-08 12:17:01.925395+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::GPIO Controller is already awake! Not reinitializing.
+2020-03-08 12:17:01.975157+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Starting I2C controller
+2020-03-08 12:17:01.975188+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Set PCI power state D0
+2020-03-08 12:17:01.975222+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Publishing nub
+2020-03-08 12:17:01.976339+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Probing controller
+2020-03-08 12:17:01.976347+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:17:01.978466+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Got bus configuration values
+2020-03-08 12:17:01.978797+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Publishing device nubs
+2020-03-08 12:17:01.979367+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Starting I2C controller
+2020-03-08 12:17:01.979536+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Set PCI power state D0
+2020-03-08 12:17:01.979640+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Publishing nub
+2020-03-08 12:17:01.979870+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Probing controller
+2020-03-08 12:17:01.979913+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:17:01.980598+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Got bus configuration values
+2020-03-08 12:17:01.980691+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Publishing device nubs
+2020-03-08 12:17:01.980700+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found I2C device: ELAN1200
+2020-03-08 12:17:01.980968+0800  localhost kernel[0]: (kernel) VoodooI2CDeviceNub::Got GPIO Controller! VoodooGPIOCannonLakeLP
+2020-03-08 12:18:31.841264+0800  localhost kernel[0]: (kernel) VoodooI2CPrecisionTouchpadHIDEventDriver::setProperties USBMouseStopsTrackpad = 0
+2020-03-08 12:21:26.977418+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::Loading GPIO Data for CannonLake-LP
+2020-03-08 12:21:26.977534+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Init!
+2020-03-08 12:21:26.977537+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 0
+2020-03-08 12:21:26.977585+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 1
+2020-03-08 12:21:26.977631+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 2
+2020-03-08 12:21:26.977782+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::GPIO Controller is already awake! Not reinitializing.
+2020-03-08 12:21:27.027423+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Starting I2C controller
+2020-03-08 12:21:27.027468+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Set PCI power state D0
+2020-03-08 12:21:27.027663+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Publishing nub
+2020-03-08 12:21:27.034142+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Probing controller
+2020-03-08 12:21:27.034150+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:21:27.035258+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Starting I2C controller
+2020-03-08 12:21:27.035421+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Set PCI power state D0
+2020-03-08 12:21:27.035463+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Publishing nub
+2020-03-08 12:21:27.035913+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Probing controller
+2020-03-08 12:21:27.035931+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:21:27.036189+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Got bus configuration values
+2020-03-08 12:21:27.036251+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Publishing device nubs
+2020-03-08 12:21:27.038771+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Got bus configuration values
+2020-03-08 12:21:27.038840+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Publishing device nubs
+2020-03-08 12:21:27.038855+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found I2C device: ELAN1200
+2020-03-08 12:21:27.039558+0800  localhost kernel[0]: (kernel) VoodooI2CDeviceNub::Got GPIO Controller! VoodooGPIOCannonLakeLP
+2020-03-08 12:22:26.807944+0800  localhost kernel[0]: (kernel) VoodooI2CPrecisionTouchpadHIDEventDriver::setProperties USBMouseStopsTrackpad = 0
+2020-03-08 12:26:29.971943+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::Loading GPIO Data for CannonLake-LP
+2020-03-08 12:26:29.972011+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Init!
+2020-03-08 12:26:29.972014+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 0
+2020-03-08 12:26:29.972053+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 1
+2020-03-08 12:26:29.972082+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::VoodooGPIO Initializing Community 2
+2020-03-08 12:26:29.972204+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::GPIO Controller is already awake! Not reinitializing.
+2020-03-08 12:26:30.023390+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Starting I2C controller
+2020-03-08 12:26:30.023438+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Set PCI power state D0
+2020-03-08 12:26:30.023476+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Publishing nub
+2020-03-08 12:26:30.023548+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Starting I2C controller
+2020-03-08 12:26:30.023592+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Set PCI power state D0
+2020-03-08 12:26:30.023627+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Publishing nub
+2020-03-08 12:26:30.023868+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Probing controller
+2020-03-08 12:26:30.023888+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Probing controller
+2020-03-08 12:26:30.023889+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:26:30.023903+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found valid Synopsys component, continuing with initialisation
+2020-03-08 12:26:30.026220+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Got bus configuration values
+2020-03-08 12:26:30.026279+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Got bus configuration values
+2020-03-08 12:26:30.026298+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Publishing device nubs
+2020-03-08 12:26:30.026309+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Found I2C device: ELAN1200
+2020-03-08 12:26:30.026391+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Publishing device nubs
+2020-03-08 12:26:30.026715+0800  localhost kernel[0]: (kernel) VoodooI2CDeviceNub::Got GPIO Controller! VoodooGPIOCannonLakeLP
+2020-03-08 12:26:30.530342+0800  localhost kernel[0]: (IOHIDFamily) <IOHIDFamily`IOHIDDevice::start(IOService*)> VoodooI2CHIDDevice:0x1000003a8 start
+2020-03-08 12:26:30.843518+0800  localhost kernel[0]: (IOHIDFamily) <IOHIDFamily`IOHIDDevice::start(IOService*)> VoodooI2CMT2SimulatorDevice:0x1000003ed start
+2020-03-08 12:26:30.845498+0800  localhost kernel[0]: (IOHIDFamily) <IOHIDFamily`IOHIDDevice::start(IOService*)> VoodooI2CMT2ActuatorDevice:0x1000003ef start
+2020-03-08 12:27:11.388575+0800  localhost kernel[0]: (kernel) VoodooI2CPrecisionTouchpadHIDEventDriver::setProperties USBMouseStopsTrackpad = 0
+
+2020-03-08 12:30:09.073167+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::Going to Sleep!
+2020-03-08 12:30:09.079778+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Going to sleep
+2020-03-08 12:30:09.080922+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Going to sleep
+2020-03-08 12:30:09.081173+0800  localhost kernel[0]: (kernel) VoodooI2CHIDDevice::ELAN1200 Going to sleep
+2020-03-08 12:30:09.083246+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Going to sleep
+2020-03-08 12:30:09.084141+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Going to sleep
+2020-03-08 12:30:27.038382+0800  localhost kernel[0]: (kernel) VoodooGPIOCannonLakeLP::Woke up from Sleep!
+2020-03-08 12:30:27.085064+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Set PCI power state D0
+2020-03-08 12:30:27.085141+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de8 Woke up
+2020-03-08 12:30:27.087161+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de8 Woke up
+2020-03-08 12:30:27.087179+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Set PCI power state D0
+2020-03-08 12:30:27.087272+0800  localhost kernel[0]: (kernel) VoodooI2CPCIController::pci8086,9de9 Woke up
+2020-03-08 12:30:27.098367+0800  localhost kernel[0]: (kernel) VoodooI2CControllerDriver::pci8086,9de9 Woke up
+2020-03-08 12:30:27.100701+0800  localhost kernel[0]: (kernel) VoodooI2CHIDDevice::ELAN1200 Woke up
